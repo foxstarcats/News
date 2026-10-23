@@ -1,0 +1,76 @@
+name: Daily podcast
+
+on:
+  schedule:
+    - cron: "17 20 * * *"   # 毎日 5:17 (日本時間) ごろ。GitHub側の混雑で数十分遅れることがあります
+  workflow_dispatch:         # Actions 画面の「Run workflow」から手動実行もできる
+    inputs:
+      force:
+        description: "今日の回を作り直す"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # gh-pages ブランチへの公開
+  actions: write    # スケジュールの自動停止（60日無操作）を防ぐ
+
+concurrency:
+  group: podcast
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    services:
+      voicevox:
+        image: voicevox/voicevox_engine:cpu-latest
+        ports:
+          - 50021:50021
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Claude Code CLI をインストール
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: これまでの配信データを取得
+        run: |
+          mkdir -p site
+          if git fetch --depth=1 origin gh-pages; then
+            git archive FETCH_HEAD | tar -x -C site
+          fi
+
+      - name: エピソードを生成
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}  # Claude のサブスクリプションで動かす
+          # API キーで動かす場合は config.yaml を backend: "api" にして次の行を有効化
+          # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITE_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          VOICEVOX_URL: http://127.0.0.1:50021
+        run: python -m podcast.generate --site-dir site ${{ inputs.force && '--force' || '' }}
+
+      - name: 配信サイトを公開（gh-pages）
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd site
+          git init -q -b gh-pages
+          git add -A
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Update $(TZ=Asia/Tokyo date +%F)"
+          # 履歴は残さず最新状態だけを置く（リポジトリが肥大化しないように）
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
+
+      - name: スケジュール実行の自動停止を防ぐ
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/daily.yml/enable" || true

@@ -1,0 +1,44 @@
+# ポッドキャストの設定ファイル
+# ここを書き換えるだけで、番組名・声・長さ・ニュースの取得元などを変更できます。
+
+podcast:
+  title: "AI・ITニュース ラジオ"
+  description: "毎朝、最新のAI・ITニュースを四国めたんとずんだもんが楽しく解説・雑談する自動生成ポッドキャストです。"
+  author: "AI News Radio"
+  language: "ja"
+  keep_episodes: 30          # 配信サイトに残す回数（古い回から自動で削除）
+
+llm:
+  # claude_code: Claude のサブスクリプション（Pro/Max など）で動かす（追加費用なし）
+  # api        : Claude API キーで動かす（従量課金）
+  backend: "claude_code"
+  cli_model: "opus"          # claude_code 用（opus / sonnet などの別名で最新版が使われる）
+  api_model: "claude-opus-5-5"  # api 用
+  effort: "medium"           # 台本作成の思考の深さ: low / medium / high
+
+episode:
+  target_minutes: 12         # 1回あたりの目安の長さ（分）
+  topics: 6                  # 1回で扱うニュースの数
+
+voices:
+  host:                      # 解説役
+    name: "四国めたん"
+    speaker_id: 2
+  guest:                     # 聞き役・ツッコミ役
+    name: "ずんだもん"
+    speaker_id: 3
+  speed: 1.15                # 話す速さ（1.0 が標準）
+  pause_ms: 350              # セリフ間の間（ミリ秒）
+
+news:
+  lookback_hours: 30         # 何時間前までの記事を対象にするか
+  max_candidates: 60         # AIに渡す候補記事の最大数
+  feeds:
+    - { name: "ITmedia AI+",   url: "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml" }
+    - { name: "ITmedia NEWS",  url: "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml" }
+    - { name: "Publickey",     url: "https://www.publickey1.jp/atom.xml" }
+    - { name: "GIGAZINE",      url: "https://gigazine.net/news/rss_2.0/" }
+    - { name: "Impress Watch", url: "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf" }
+    - { name: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/" }
+    - { name: "The Verge AI",  url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" }
+    - { name: "Hacker News",   url: "https://hnrss.org/frontpage?points=200" }
