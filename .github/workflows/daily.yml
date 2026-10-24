@@ -2,7 +2,7 @@ name: Daily podcast
 
 on:
   schedule:
-    - cron: "17 20 * * *"   # 毎日 5:17 (日本時間) ごろ。GitHub側の混雑で数十分遅れることがあります
+    - cron: "17 18 * * *"   # 毎日 3:17 (日本時間)。GitHub側の混雑で数時間遅れることがあるため早めに設定
   workflow_dispatch:         # Actions 画面の「Run workflow」から手動実行もできる
     inputs:
       force:

@@ -5,7 +5,7 @@
 ## しくみ
 
 ```
-毎朝5時ごろ GitHub Actions が自動起動
+毎朝3時ごろ GitHub Actions が自動起動
   1. RSSで8サイトからニュースを収集（ITmedia AI+、GIGAZINE、TechCrunch など）
   2. Claude（あなたのサブスクリプション）が重要なニュースを6本選び、記事本文を読んで対話台本を作成
   3. VOICEVOX で2人の声を合成し、1本のMP3（約12分）に結合
@@ -94,7 +94,7 @@ Claude API キー（従量課金）で動かしたい場合は、`backend: "api"
 - 声: `speaker_id`（例: 春日部つむぎ=8、青山龍星=13、冥鳴ひまり=14）。キャラクターを変えた場合は `podcast/script_writer.py` の口調設定と、`podcast/feed.py` のクレジット表記も合わせて変更
 - 話す速さ: `speed`
 - ニュース取得元: `feeds` に RSS の URL を追加・削除
-- 配信時刻: `.github/workflows/daily.yml` の `cron`（UTC表記。`17 20 * * *` = 日本時間 5:17）
+- 配信時刻: `.github/workflows/daily.yml` の `cron`（UTC表記。`17 18 * * *` = 日本時間 3:17）
 
 ## ローカルでの動作確認（任意）
 
@@ -110,5 +110,5 @@ python -m podcast.generate --site-dir site --force           # 本番と同じ�
 
 - 公開リポジトリのため、フィードURLを知っている人は聴けます。検索エンジンやポッドキャストのディレクトリには載らない設定（`noindex` / `itunes:block`）にしてあります。
 - 番組は記事の要約と感想で構成しています。記事本文の丸読みはしません。
-- GitHub の定期実行は、混雑で数十分遅れることがあります。
+- GitHub の定期実行は、混雑で数時間遅れることがあります（そのため深夜3時台に設定しています）。
 - 失敗した日は GitHub からメールで通知が届きます。Actions タブから再実行できます。

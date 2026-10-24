@@ -14,6 +14,7 @@ import shutil
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlsplit, urlunsplit
 
 import yaml
 
@@ -32,18 +33,28 @@ def save_json(path: Path, data) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def write_pages(cfg: dict, site: Path, episodes: list[dict], base_url: str) -> None:
+    (site / "feed.xml").write_text(feed.build_feed(cfg, episodes, base_url), encoding="utf-8")
+    (site / "index.html").write_text(feed.build_index(cfg, episodes, base_url), encoding="utf-8")
+    shutil.copyfile(ROOT / "assets" / "cover.png", site / "cover.png")
+    (site / ".nojekyll").touch()
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--site-dir", default="site")
     ap.add_argument("--config", default=str(ROOT / "config.yaml"))
     ap.add_argument("--force", action="store_true", help="今日の回があっても作り直す")
     ap.add_argument("--sample", action="store_true", help="Claude を使わずサンプル台本で試す")
+    ap.add_argument("--rebuild-feed", action="store_true", help="新しい回は作らずRSSとページだけ作り直す")
     args = ap.parse_args()
 
     cfg = yaml.safe_load(Path(args.config).read_text(encoding="utf-8"))
     site = Path(args.site_dir)
     (site / "episodes").mkdir(parents=True, exist_ok=True)
-    base_url = os.environ.get("SITE_BASE_URL", "http://localhost:8000/").lower()
+    # ドメインは小文字にそろえる。パス（リポジトリ名）は大文字小文字を区別するのでそのまま
+    url = urlsplit(os.environ.get("SITE_BASE_URL", "http://localhost:8000/"))
+    base_url = urlunsplit(url._replace(netloc=url.netloc.lower()))
     if not base_url.endswith("/"):
         base_url += "/"
     engine_url = os.environ.get("VOICEVOX_URL", "http://127.0.0.1:50021")
@@ -54,6 +65,10 @@ def main() -> int:
 
     episodes = load_json(site / "episodes.json", [])
     state = load_json(site / "state.json", {"used_links": []})
+    if args.rebuild_feed:
+        write_pages(cfg, site, episodes, base_url)
+        print(f"RSSとページを作り直しました（{len(episodes)}回分）")
+        return 0
     if any(ep["guid"] == stamp for ep in episodes) and not args.force:
         print(f"{stamp} の回は作成済みです（作り直す場合は --force）")
         return 0
@@ -111,10 +126,7 @@ def main() -> int:
     state["used_links"] = ([a["link"] for a in articles] + state["used_links"])[:2000]
     save_json(site / "episodes.json", episodes)
     save_json(site / "state.json", state)
-    (site / "feed.xml").write_text(feed.build_feed(cfg, episodes, base_url), encoding="utf-8")
-    (site / "index.html").write_text(feed.build_index(cfg, episodes, base_url), encoding="utf-8")
-    shutil.copyfile(ROOT / "assets" / "cover.png", site / "cover.png")
-    (site / ".nojekyll").touch()
+    write_pages(cfg, site, episodes, base_url)
 
     print(f"完了: {episode['title']}（{duration / 60:.1f}分, {episode['bytes'] / 1e6:.1f}MB）")
     return 0
