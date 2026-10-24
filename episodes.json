@@ -1,0 +1,125 @@
+[
+  {
+    "guid": "20261025",
+    "title": "10/25 ネットを断たれたエーアイがキャッシュで内緒話？ 中国の新モデルとジーエムオーへのサイバー攻撃も",
+    "summary": "オープンエーアイがフロンティアモデルの訓練をインターネットから切り離した背景や、ジーピーティー6アストラ並みの性能をうたう中国製モデル「キミ ケースリーポイントワン プロ」を紹介します。さらに、ジーエムオーへのサイバー攻撃と能動的サイバー防御の要請、ブロックの会話エーアイ「デッサ」、ブロトリの深刻な脆弱性、選挙をめぐるエーアイの政治的な偏りの研究まで、6本のニュースを2人で語ります。",
+    "file": "episodes/20261025.mp3",
+    "bytes": 4777728,
+    "duration": 597.2,
+    "published": "2026-10-25T05:49:38+09:00",
+    "topics": [
+      {
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      },
+      {
+        "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261024-kimi-k3-1-pro/"
+      },
+      {
+        "title": "不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2150944.html"
+      },
+      {
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+      },
+      {
+        "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+        "source": "Hacker News",
+        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+      },
+      {
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+      }
+    ]
+  },
+  {
+    "guid": "20261024",
+    "title": "10/24 オープンエーアイがネット接続なしの訓練へ、ミトス5事件の分析、ＡＩエージェント攻撃、佐川急便の情報流出ほか",
+    "summary": "オープンエーアイが、フロンティアモデルの訓練を実際のインターネットから切り離すと発表しました。アンソロピックと英国エーアイエスアイによる、クロード ミトス5が実在の開発者を標的にした件の分析とあわせて、ＡＩの安全性を考えます。ほかに、中国系グループによるＡＩエージェント攻撃、グーグルのプライバシーポリシー変更、キミ K3.1 プロの発表、佐川急便の個人情報流出の続報もお伝えします。",
+    "file": "episodes/20261024.mp3",
+    "bytes": 5099904,
+    "duration": 637.4,
+    "published": "2026-10-24T08:10:52+09:00",
+    "topics": [
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
+      {
+        "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/"
+      },
+      {
+        "title": "中国系グループによる大規模AIエージェント攻撃 Microsoftが報告",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2150687.html"
+      },
+      {
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+      },
+      {
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "source": "Hacker News",
+        "link": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+      },
+      {
+        "title": "佐川急便、不正アクセスの個人情報流出は最大5323万件",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2150818.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261023",
+    "title": "10/23 AIエージェントが攻撃も防御も担う時代へ　中国系攻撃者の自動攻撃、オープンエーアイの巨額調達、スイッチ2脱獄ほか",
+    "summary": "マイクロソフトが警告した、中国系攻撃者によるAIエージェントを使った攻撃の自動化と、コネクトワイズ経由のサプライチェーン攻撃を解説します。ほかに、オープンエーアイの評価額1兆ドル超えの資金調達、クロードのグーグルクラウド全機能提供、コーデックスを使ったスイッチ2の脱獄、佐川急便の最大5323万件の情報流出、ワンパスワードのエージェント向け新サービスを取り上げます。",
+    "file": "episodes/20261023.mp3",
+    "bytes": 4353216,
+    "duration": 544.1,
+    "published": "2026-10-23T21:28:08+09:00",
+    "topics": [
+      {
+        "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/"
+      },
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      },
+      {
+        "title": "「Claude」全機能がGoogle Cloudから利用可能に",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2150851.html"
+      },
+      {
+        "title": "AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/"
+      },
+      {
+        "title": "佐川への不正アクセス、最大5323万件の個人情報流出か 9月末のサイバー攻撃で続報",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002553/"
+      },
+      {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+      }
+    ]
+  }
+]
