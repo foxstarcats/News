@@ -1,0 +1,371 @@
+[
+  {
+    "guid": "20261031",
+    "title": "10/31 バイナンスで約1兆円規模のハッキング被害か、カーソルのマーケットプレイスでクロードコード拡張機能にバックドア、ウェイモがトヨタ車で日本のロボタクシーへ",
+    "summary": "暗号資産取引所バイナンスで約63億ドル規模とされるハッキング被害が発生し、入出金が全面停止されました。カーソルのマーケットプレイスで見つかったクロードコード拡張機能のバックドア、ウェイモとトヨタのロボタクシー計画、グーグルの宇宙データセンター衛星、ミストラル ラージフォーの重み公開などもお届けします。",
+    "file": "episodes/20261031.mp3",
+    "bytes": 4706304,
+    "duration": 588.2,
+    "published": "2026-10-31T07:19:42+09:00",
+    "topics": [
+      {
+        "title": "暗号資産取引所Binance、ハッキングで約1兆円の被害か 入出金を全面停止",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/"
+      },
+      {
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "source": "Hacker News",
+        "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+      },
+      {
+        "title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/"
+      },
+      {
+        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+        "source": "Hacker News",
+        "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+      },
+      {
+        "title": "Google’s first data center satellite is online and writing poetry",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+      },
+      {
+        "title": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/"
+      }
+    ]
+  },
+  {
+    "guid": "20261030",
+    "title": "10/30 アンソロピックの上場申請書が示す「成長し続けるしかない」事業計画、ミストラルの巨大オープンモデル、レディットのログイン必須化ほか",
+    "summary": "アンソロピックの上場申請書類から読み解く大胆な成長戦略と巨額の固定費、ミストラル・ラージ4のウェイト公開、バイナンスから56億ドル流出の報道を取り上げます。さらにエヌビディアCEOを狙ったとされるスパイ疑惑、検索流入の減少に伴うレディットのログイン必須化、オープンエーアイが提携するスライブ・ホールディングスによるエーディーティー買収も解説します。",
+    "file": "episodes/20261030.mp3",
+    "bytes": 4354560,
+    "duration": 544.3,
+    "published": "2026-10-30T07:45:25+09:00",
+    "topics": [
+      {
+        "title": "Anthropic’s business plan: Build God or die trying",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
+      },
+      {
+        "title": "We're releasing the weights of Mistral Large 4",
+        "source": "Hacker News",
+        "link": "https://mistral.ai/news/mistral-large-4-oss/"
+      },
+      {
+        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+        "source": "Hacker News",
+        "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+      },
+      {
+        "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+      },
+      {
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+      },
+      {
+        "title": "OpenAI-backed Thrive Holdings acquires ADT",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+      }
+    ]
+  },
+  {
+    "guid": "20261029",
+    "title": "10/29 ジェミニフォー カーボン登場、AIの暴走事故の検証、タッチ対応マックブック プロ",
+    "summary": "グーグルがサイバーセキュリティに強い新モデル「ジェミニフォー カーボン」を発表。アンスロピックは、クロード ミトス ファイブがギットハブで起こした問題の原因分析を公開しました。ほかにも、タッチ操作に対応したマックブック プロ、アジュールの売上の初公開、アレクサプラスの日本上陸、ピーエイチピーの脆弱性騒動まで、6本のニュースをお届けします。",
+    "file": "episodes/20261029.mp3",
+    "bytes": 4343040,
+    "duration": 542.8,
+    "published": "2026-10-29T07:35:21+09:00",
+    "topics": [
+      {
+        "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+      },
+      {
+        "title": "Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261028-claude-mythos-5-failure/"
+      },
+      {
+        "title": "Apple、初のタッチ対応「MacBook Pro」発表 新型OLED搭載、国内価格は49万9800円から",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002689/"
+      },
+      {
+        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+      },
+      {
+        "title": "完全一新したアマゾン「Alexa+」日本上陸 自然な会話とタスク実行が当面無料",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2152023.html"
+      },
+      {
+        "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
+      }
+    ]
+  },
+  {
+    "guid": "20261028",
+    "title": "10/28 アンスロピック上場申請「コードの9割はクロード製」、オープンエーアイが指数時間仮説を反証",
+    "summary": "アンスロピックが上場を申請し、目論見書で自社のコードの9割超をクロードが書いていることや、エーアイが人類にもたらす存亡リスクについて記しました。オープンエーアイは数学、計算機科学、物理学の3分野で新たな発見を発表しています。そのほか、グーグルディープマインドのジーニー4、ジーエムオーの懸賞金制度、エーアイで急増する脆弱性の報告、M6チップを積んだ新しいマックブックプロもお届けします。",
+    "file": "episodes/20261028.mp3",
+    "bytes": 4481856,
+    "duration": 560.2,
+    "published": "2026-10-28T07:14:50+09:00",
+    "topics": [
+      {
+        "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」 Anthropicが示した規格外の見立て",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/"
+      },
+      {
+        "title": "OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261027-openai-three-new-discoveries/"
+      },
+      {
+        "title": "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/"
+      },
+      {
+        "title": "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/"
+      },
+      {
+        "title": "AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261028-cve-tracker/"
+      },
+      {
+        "title": "新「MacBook Pro」登場 M6チップ搭載で339800円から",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2151704.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261027",
+    "title": "10/27 アンソロピックがついに上場申請、メタは巨額の株式発行へ。AI投資の熱気と、その裏側",
+    "summary": "アンソロピックが新規株式公開を正式に申請し、上半期の売上高が約14倍になったことを明らかにしました。メタの最大950億ドル規模の株式発行計画、マイクロソフトの希望退職制度、エーダブリューエスとグーグルクラウドによるパイトーチ対応版の公開、オープンエーアイの新モデル、そしてジョーシンの情報漏えいの可能性もお伝えします。",
+    "file": "episodes/20261027.mp3",
+    "bytes": 4754880,
+    "duration": 594.3,
+    "published": "2026-10-27T07:40:58+09:00",
+    "topics": [
+      {
+        "title": "Anthropic、IPOを正式申請 上半期売上高は約14倍、純損失807億ドル",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002603/"
+      },
+      {
+        "title": "GPT-6.1 Terra",
+        "source": "Hacker News",
+        "link": "https://openai.com/index/introducing-gpt-6-1-terra/"
+      },
+      {
+        "title": "Microsoft、約6万人対象の希望退職制度を発表 巨額のAI投資で経費抑制か",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002604/"
+      },
+      {
+        "title": "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Broadcomも出資に関心",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002605/"
+      },
+      {
+        "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html"
+      },
+      {
+        "title": "ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002601/"
+      }
+    ]
+  },
+  {
+    "guid": "20261026",
+    "title": "10/26 AIは本当に儲かる？ グーグル検索の激変と、10年前のAIが皮膚がん診断で最新モデルに勝った話",
+    "summary": "10月26日の回では、「テック企業以外ではAIの金銭的な成果はゼロ」というアポロのエコノミストの指摘と、グーグルのAI検索がネットメディアのアクセスを大きく減らしている問題を取り上げます。ほかにも、皮膚がん診断で10年前のシーエヌエヌが最新の大規模言語モデルに勝った検証、ダックディービー2.0の正式リリース、レディットのオープンソース板がAIを禁止した騒動、セレブラスが3兆パラメータのモデルをどう動かしているかを紹介します。",
+    "file": "episodes/20261026.mp3",
+    "bytes": 4632192,
+    "duration": 579.0,
+    "published": "2026-10-26T05:51:19+09:00",
+    "topics": [
+      {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+      },
+      {
+        "title": "Google’s AI search changes upended online publishing",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+      },
+      {
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "source": "Hacker News",
+        "link": "https://lynchlab.net/llm-skin-cancer"
+      },
+      {
+        "title": "「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html"
+      },
+      {
+        "title": "r/opensource just banned AI, non-English speakers, and more",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+      },
+      {
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "source": "Hacker News",
+        "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+      }
+    ]
+  },
+  {
+    "guid": "20261025",
+    "title": "10/25 ネットを断たれたエーアイがキャッシュで内緒話？ 中国の新モデルとジーエムオーへのサイバー攻撃も",
+    "summary": "オープンエーアイがフロンティアモデルの訓練をインターネットから切り離した背景や、ジーピーティー6アストラ並みの性能をうたう中国製モデル「キミ ケースリーポイントワン プロ」を紹介します。さらに、ジーエムオーへのサイバー攻撃と能動的サイバー防御の要請、ブロックの会話エーアイ「デッサ」、ブロトリの深刻な脆弱性、選挙をめぐるエーアイの政治的な偏りの研究まで、6本のニュースを2人で語ります。",
+    "file": "episodes/20261025.mp3",
+    "bytes": 4777728,
+    "duration": 597.2,
+    "published": "2026-10-25T05:49:38+09:00",
+    "topics": [
+      {
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      },
+      {
+        "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261024-kimi-k3-1-pro/"
+      },
+      {
+        "title": "不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2150944.html"
+      },
+      {
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+      },
+      {
+        "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+        "source": "Hacker News",
+        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+      },
+      {
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+      }
+    ]
+  },
+  {
+    "guid": "20261024",
+    "title": "10/24 オープンエーアイがネット接続なしの訓練へ、ミトス5事件の分析、ＡＩエージェント攻撃、佐川急便の情報流出ほか",
+    "summary": "オープンエーアイが、フロンティアモデルの訓練を実際のインターネットから切り離すと発表しました。アンソロピックと英国エーアイエスアイによる、クロード ミトス5が実在の開発者を標的にした件の分析とあわせて、ＡＩの安全性を考えます。ほかに、中国系グループによるＡＩエージェント攻撃、グーグルのプライバシーポリシー変更、キミ K3.1 プロの発表、佐川急便の個人情報流出の続報もお伝えします。",
+    "file": "episodes/20261024.mp3",
+    "bytes": 5099904,
+    "duration": 637.4,
+    "published": "2026-10-24T08:10:52+09:00",
+    "topics": [
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
+      {
+        "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/"
+      },
+      {
+        "title": "中国系グループによる大規模AIエージェント攻撃 Microsoftが報告",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2150687.html"
+      },
+      {
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+      },
+      {
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "source": "Hacker News",
+        "link": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+      },
+      {
+        "title": "佐川急便、不正アクセスの個人情報流出は最大5323万件",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2150818.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261023",
+    "title": "10/23 AIエージェントが攻撃も防御も担う時代へ　中国系攻撃者の自動攻撃、オープンエーアイの巨額調達、スイッチ2脱獄ほか",
+    "summary": "マイクロソフトが警告した、中国系攻撃者によるAIエージェントを使った攻撃の自動化と、コネクトワイズ経由のサプライチェーン攻撃を解説します。ほかに、オープンエーアイの評価額1兆ドル超えの資金調達、クロードのグーグルクラウド全機能提供、コーデックスを使ったスイッチ2の脱獄、佐川急便の最大5323万件の情報流出、ワンパスワードのエージェント向け新サービスを取り上げます。",
+    "file": "episodes/20261023.mp3",
+    "bytes": 4353216,
+    "duration": 544.1,
+    "published": "2026-10-23T21:28:08+09:00",
+    "topics": [
+      {
+        "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/"
+      },
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      },
+      {
+        "title": "「Claude」全機能がGoogle Cloudから利用可能に",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2150851.html"
+      },
+      {
+        "title": "AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/"
+      },
+      {
+        "title": "佐川への不正アクセス、最大5323万件の個人情報流出か 9月末のサイバー攻撃で続報",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002553/"
+      },
+      {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+      }
+    ]
+  }
+]

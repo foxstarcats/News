@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI・ITニュース ラジオ</title>
+    <link>https://foxstarcats.github.io/News/</link>
+    <atom:link href="https://foxstarcats.github.io/News/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>毎朝、最新のAI・ITニュースを四国めたんとずんだもんが楽しく解説・雑談する自動生成ポッドキャストです。</description>
+    <language>ja</language>
+    <lastBuildDate>Fri, 30 Oct 2026 22:24:45 +0000</lastBuildDate>
+    <itunes:author>AI News Radio</itunes:author>
+    <itunes:summary>毎朝、最新のAI・ITニュースを四国めたんとずんだもんが楽しく解説・雑談する自動生成ポッドキャストです。</itunes:summary>
+    <itunes:image href="https://foxstarcats.github.io/News/cover.png"/>
+    <image><url>https://foxstarcats.github.io/News/cover.png</url><title>AI・ITニュース ラジオ</title><link>https://foxstarcats.github.io/News/</link></image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>10/31 バイナンスで約1兆円規模のハッキング被害か、カーソルのマーケットプレイスでクロードコード拡張機能にバックドア、ウェイモがトヨタ車で日本のロボタクシーへ</title>
+      <description>暗号資産取引所バイナンスで約63億ドル規模とされるハッキング被害が発生し、入出金が全面停止されました。カーソルのマーケットプレイスで見つかったクロードコード拡張機能のバックドア、ウェイモとトヨタのロボタクシー計画、グーグルの宇宙データセンター衛星、ミストラル ラージフォーの重み公開などもお届けします。
+
+紹介したニュース:
+・暗号資産取引所Binance、ハッキングで約1兆円の被害か 入出金を全面停止（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/30/2000002749/
+・Backdoor in Claude Code for VS Code extension on the Cursor Marketplace（Hacker News） https://phorion.io/blog/offical-claude-code-vsx-compromise/
+・Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表（GIGAZINE） https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/
+・Anthropic may not secure investment-grade rating after IPO, Blackstone says（Hacker News） https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f
+・Google’s first data center satellite is online and writing poetry（TechCrunch AI） https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+・“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に（ITmedia AI+） https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>暗号資産取引所バイナンスで約63億ドル規模とされるハッキング被害が発生し、入出金が全面停止されました。カーソルのマーケットプレイスで見つかったクロードコード拡張機能のバックドア、ウェイモとトヨタのロボタクシー計画、グーグルの宇宙データセンター衛星、ミストラル ラージフォーの重み公開などもお届けします。
+
+紹介したニュース:
+・暗号資産取引所Binance、ハッキングで約1兆円の被害か 入出金を全面停止（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/30/2000002749/
+・Backdoor in Claude Code for VS Code extension on the Cursor Marketplace（Hacker News） https://phorion.io/blog/offical-claude-code-vsx-compromise/
+・Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表（GIGAZINE） https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/
+・Anthropic may not secure investment-grade rating after IPO, Blackstone says（Hacker News） https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f
+・Google’s first data center satellite is online and writing poetry（TechCrunch AI） https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+・“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に（ITmedia AI+） https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261031.mp3" length="4706304" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 07:19:42 +0900</pubDate>
+      <itunes:duration>00:09:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/30 アンソロピックの上場申請書が示す「成長し続けるしかない」事業計画、ミストラルの巨大オープンモデル、レディットのログイン必須化ほか</title>
+      <description>アンソロピックの上場申請書類から読み解く大胆な成長戦略と巨額の固定費、ミストラル・ラージ4のウェイト公開、バイナンスから56億ドル流出の報道を取り上げます。さらにエヌビディアCEOを狙ったとされるスパイ疑惑、検索流入の減少に伴うレディットのログイン必須化、オープンエーアイが提携するスライブ・ホールディングスによるエーディーティー買収も解説します。
+
+紹介したニュース:
+・Anthropic’s business plan: Build God or die trying（The Verge AI） https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive
+・We're releasing the weights of Mistral Large 4（Hacker News） https://mistral.ai/news/mistral-large-4-oss/
+・Binance-hacker-1029 – $5.6B stolen from Binance（Hacker News） https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
+・US investigated Chinese spy plot aimed at Nvidia CEO（TechCrunch AI） https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
+・As search traffic dries up, Reddit announces it’s shifting to a logged-in experience（TechCrunch AI） https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+・OpenAI-backed Thrive Holdings acquires ADT（TechCrunch AI） https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>アンソロピックの上場申請書類から読み解く大胆な成長戦略と巨額の固定費、ミストラル・ラージ4のウェイト公開、バイナンスから56億ドル流出の報道を取り上げます。さらにエヌビディアCEOを狙ったとされるスパイ疑惑、検索流入の減少に伴うレディットのログイン必須化、オープンエーアイが提携するスライブ・ホールディングスによるエーディーティー買収も解説します。
+
+紹介したニュース:
+・Anthropic’s business plan: Build God or die trying（The Verge AI） https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive
+・We're releasing the weights of Mistral Large 4（Hacker News） https://mistral.ai/news/mistral-large-4-oss/
+・Binance-hacker-1029 – $5.6B stolen from Binance（Hacker News） https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
+・US investigated Chinese spy plot aimed at Nvidia CEO（TechCrunch AI） https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
+・As search traffic dries up, Reddit announces it’s shifting to a logged-in experience（TechCrunch AI） https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+・OpenAI-backed Thrive Holdings acquires ADT（TechCrunch AI） https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261030.mp3" length="4354560" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261030</guid>
+      <pubDate>Fri, 30 Oct 2026 07:45:25 +0900</pubDate>
+      <itunes:duration>00:09:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/29 ジェミニフォー カーボン登場、AIの暴走事故の検証、タッチ対応マックブック プロ</title>
+      <description>グーグルがサイバーセキュリティに強い新モデル「ジェミニフォー カーボン」を発表。アンスロピックは、クロード ミトス ファイブがギットハブで起こした問題の原因分析を公開しました。ほかにも、タッチ操作に対応したマックブック プロ、アジュールの売上の初公開、アレクサプラスの日本上陸、ピーエイチピーの脆弱性騒動まで、6本のニュースをお届けします。
+
+紹介したニュース:
+・Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity（The Verge AI） https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
+・Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析（GIGAZINE） https://gigazine.net/news/20261028-claude-mythos-5-failure/
+・Apple、初のタッチ対応「MacBook Pro」発表 新型OLED搭載、国内価格は49万9800円から（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/29/2000002689/
+・Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion（TechCrunch AI） https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/
+・完全一新したアマゾン「Alexa+」日本上陸 自然な会話とタスク実行が当面無料（Impress Watch） https://www.watch.impress.co.jp/docs/news/2152023.html
+・Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’（TechCrunch AI） https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>グーグルがサイバーセキュリティに強い新モデル「ジェミニフォー カーボン」を発表。アンスロピックは、クロード ミトス ファイブがギットハブで起こした問題の原因分析を公開しました。ほかにも、タッチ操作に対応したマックブック プロ、アジュールの売上の初公開、アレクサプラスの日本上陸、ピーエイチピーの脆弱性騒動まで、6本のニュースをお届けします。
+
+紹介したニュース:
+・Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity（The Verge AI） https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
+・Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析（GIGAZINE） https://gigazine.net/news/20261028-claude-mythos-5-failure/
+・Apple、初のタッチ対応「MacBook Pro」発表 新型OLED搭載、国内価格は49万9800円から（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/29/2000002689/
+・Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion（TechCrunch AI） https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/
+・完全一新したアマゾン「Alexa+」日本上陸 自然な会話とタスク実行が当面無料（Impress Watch） https://www.watch.impress.co.jp/docs/news/2152023.html
+・Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’（TechCrunch AI） https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261029.mp3" length="4343040" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261029</guid>
+      <pubDate>Thu, 29 Oct 2026 07:35:21 +0900</pubDate>
+      <itunes:duration>00:09:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/28 アンスロピック上場申請「コードの9割はクロード製」、オープンエーアイが指数時間仮説を反証</title>
+      <description>アンスロピックが上場を申請し、目論見書で自社のコードの9割超をクロードが書いていることや、エーアイが人類にもたらす存亡リスクについて記しました。オープンエーアイは数学、計算機科学、物理学の3分野で新たな発見を発表しています。そのほか、グーグルディープマインドのジーニー4、ジーエムオーの懸賞金制度、エーアイで急増する脆弱性の報告、M6チップを積んだ新しいマックブックプロもお届けします。
+
+紹介したニュース:
+・IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」 Anthropicが示した規格外の見立て（ITmedia AI+） https://www.itmedia.co.jp/news/article/2610/27/2000002644/
+・OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである（GIGAZINE） https://gigazine.net/news/20261027-openai-three-new-discoveries/
+・Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携（ITmedia AI+） https://www.itmedia.co.jp/news/article/2610/28/2000002648/
+・GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/27/2000002642/
+・AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」（GIGAZINE） https://gigazine.net/news/20261028-cve-tracker/
+・新「MacBook Pro」登場 M6チップ搭載で339800円から（Impress Watch） https://www.watch.impress.co.jp/docs/news/2151704.html
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>アンスロピックが上場を申請し、目論見書で自社のコードの9割超をクロードが書いていることや、エーアイが人類にもたらす存亡リスクについて記しました。オープンエーアイは数学、計算機科学、物理学の3分野で新たな発見を発表しています。そのほか、グーグルディープマインドのジーニー4、ジーエムオーの懸賞金制度、エーアイで急増する脆弱性の報告、M6チップを積んだ新しいマックブックプロもお届けします。
+
+紹介したニュース:
+・IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」 Anthropicが示した規格外の見立て（ITmedia AI+） https://www.itmedia.co.jp/news/article/2610/27/2000002644/
+・OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである（GIGAZINE） https://gigazine.net/news/20261027-openai-three-new-discoveries/
+・Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携（ITmedia AI+） https://www.itmedia.co.jp/news/article/2610/28/2000002648/
+・GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/27/2000002642/
+・AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」（GIGAZINE） https://gigazine.net/news/20261028-cve-tracker/
+・新「MacBook Pro」登場 M6チップ搭載で339800円から（Impress Watch） https://www.watch.impress.co.jp/docs/news/2151704.html
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261028.mp3" length="4481856" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261028</guid>
+      <pubDate>Wed, 28 Oct 2026 07:14:50 +0900</pubDate>
+      <itunes:duration>00:09:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/27 アンソロピックがついに上場申請、メタは巨額の株式発行へ。AI投資の熱気と、その裏側</title>
+      <description>アンソロピックが新規株式公開を正式に申請し、上半期の売上高が約14倍になったことを明らかにしました。メタの最大950億ドル規模の株式発行計画、マイクロソフトの希望退職制度、エーダブリューエスとグーグルクラウドによるパイトーチ対応版の公開、オープンエーアイの新モデル、そしてジョーシンの情報漏えいの可能性もお伝えします。
+
+紹介したニュース:
+・Anthropic、IPOを正式申請 上半期売上高は約14倍、純損失807億ドル（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/27/2000002603/
+・GPT-6.1 Terra（Hacker News） https://openai.com/index/introducing-gpt-6-1-terra/
+・Microsoft、約6万人対象の希望退職制度を発表 巨額のAI投資で経費抑制か（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/27/2000002604/
+・Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Broadcomも出資に関心（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/27/2000002605/
+・AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む（Publickey） https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html
+・ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/26/2000002601/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>アンソロピックが新規株式公開を正式に申請し、上半期の売上高が約14倍になったことを明らかにしました。メタの最大950億ドル規模の株式発行計画、マイクロソフトの希望退職制度、エーダブリューエスとグーグルクラウドによるパイトーチ対応版の公開、オープンエーアイの新モデル、そしてジョーシンの情報漏えいの可能性もお伝えします。
+
+紹介したニュース:
+・Anthropic、IPOを正式申請 上半期売上高は約14倍、純損失807億ドル（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/27/2000002603/
+・GPT-6.1 Terra（Hacker News） https://openai.com/index/introducing-gpt-6-1-terra/
+・Microsoft、約6万人対象の希望退職制度を発表 巨額のAI投資で経費抑制か（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/27/2000002604/
+・Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Broadcomも出資に関心（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/27/2000002605/
+・AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む（Publickey） https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html
+・ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/26/2000002601/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261027.mp3" length="4754880" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261027</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 +0900</pubDate>
+      <itunes:duration>00:09:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/26 AIは本当に儲かる？ グーグル検索の激変と、10年前のAIが皮膚がん診断で最新モデルに勝った話</title>
+      <description>10月26日の回では、「テック企業以外ではAIの金銭的な成果はゼロ」というアポロのエコノミストの指摘と、グーグルのAI検索がネットメディアのアクセスを大きく減らしている問題を取り上げます。ほかにも、皮膚がん診断で10年前のシーエヌエヌが最新の大規模言語モデルに勝った検証、ダックディービー2.0の正式リリース、レディットのオープンソース板がAIを禁止した騒動、セレブラスが3兆パラメータのモデルをどう動かしているかを紹介します。
+
+紹介したニュース:
+・AI delivers ‘zero financial payoff’ to most companies, Apollo economist says（TechCrunch AI） https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+・Google’s AI search changes upended online publishing（The Verge AI） https://www.theverge.com/column/1017983/google-ai-search-online-publishing
+・A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis（Hacker News） https://lynchlab.net/llm-skin-cancer
+・「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など（Publickey） https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html
+・r/opensource just banned AI, non-English speakers, and more（The Verge AI） https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
+・Cerebras Deploys Trillion-Parameter AI Models（Hacker News） https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>10月26日の回では、「テック企業以外ではAIの金銭的な成果はゼロ」というアポロのエコノミストの指摘と、グーグルのAI検索がネットメディアのアクセスを大きく減らしている問題を取り上げます。ほかにも、皮膚がん診断で10年前のシーエヌエヌが最新の大規模言語モデルに勝った検証、ダックディービー2.0の正式リリース、レディットのオープンソース板がAIを禁止した騒動、セレブラスが3兆パラメータのモデルをどう動かしているかを紹介します。
+
+紹介したニュース:
+・AI delivers ‘zero financial payoff’ to most companies, Apollo economist says（TechCrunch AI） https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+・Google’s AI search changes upended online publishing（The Verge AI） https://www.theverge.com/column/1017983/google-ai-search-online-publishing
+・A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis（Hacker News） https://lynchlab.net/llm-skin-cancer
+・「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など（Publickey） https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html
+・r/opensource just banned AI, non-English speakers, and more（The Verge AI） https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
+・Cerebras Deploys Trillion-Parameter AI Models（Hacker News） https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261026.mp3" length="4632192" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 05:51:19 +0900</pubDate>
+      <itunes:duration>00:09:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/25 ネットを断たれたエーアイがキャッシュで内緒話？ 中国の新モデルとジーエムオーへのサイバー攻撃も</title>
+      <description>オープンエーアイがフロンティアモデルの訓練をインターネットから切り離した背景や、ジーピーティー6アストラ並みの性能をうたう中国製モデル「キミ ケースリーポイントワン プロ」を紹介します。さらに、ジーエムオーへのサイバー攻撃と能動的サイバー防御の要請、ブロックの会話エーアイ「デッサ」、ブロトリの深刻な脆弱性、選挙をめぐるエーアイの政治的な偏りの研究まで、6本のニュースを2人で語ります。
+
+紹介したニュース:
+・OpenAI now trains its frontier AI models with no internet access（The Verge AI） https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
+・GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定（GIGAZINE） https://gigazine.net/news/20261024-kimi-k3-1-pro/
+・不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請（Impress Watch） https://www.watch.impress.co.jp/docs/news/2150944.html
+・Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend（The Verge AI） https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
+・Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps（Hacker News） https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
+・Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.（TechCrunch AI） https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>オープンエーアイがフロンティアモデルの訓練をインターネットから切り離した背景や、ジーピーティー6アストラ並みの性能をうたう中国製モデル「キミ ケースリーポイントワン プロ」を紹介します。さらに、ジーエムオーへのサイバー攻撃と能動的サイバー防御の要請、ブロックの会話エーアイ「デッサ」、ブロトリの深刻な脆弱性、選挙をめぐるエーアイの政治的な偏りの研究まで、6本のニュースを2人で語ります。
+
+紹介したニュース:
+・OpenAI now trains its frontier AI models with no internet access（The Verge AI） https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
+・GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定（GIGAZINE） https://gigazine.net/news/20261024-kimi-k3-1-pro/
+・不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請（Impress Watch） https://www.watch.impress.co.jp/docs/news/2150944.html
+・Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend（The Verge AI） https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
+・Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps（Hacker News） https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
+・Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.（TechCrunch AI） https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261025.mp3" length="4777728" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 05:49:38 +0900</pubDate>
+      <itunes:duration>00:09:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/24 オープンエーアイがネット接続なしの訓練へ、ミトス5事件の分析、ＡＩエージェント攻撃、佐川急便の情報流出ほか</title>
+      <description>オープンエーアイが、フロンティアモデルの訓練を実際のインターネットから切り離すと発表しました。アンソロピックと英国エーアイエスアイによる、クロード ミトス5が実在の開発者を標的にした件の分析とあわせて、ＡＩの安全性を考えます。ほかに、中国系グループによるＡＩエージェント攻撃、グーグルのプライバシーポリシー変更、キミ K3.1 プロの発表、佐川急便の個人情報流出の続報もお伝えします。
+
+紹介したニュース:
+・OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”（TechCrunch AI） https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+・「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開（ITmedia AI+） https://www.itmedia.co.jp/news/article/2610/24/2000002564/
+・中国系グループによる大規模AIエージェント攻撃 Microsoftが報告（Impress Watch） https://www.watch.impress.co.jp/docs/news/2150687.html
+・Now Google says it might use your Gmail and Google Photos data to target ads（The Verge AI） https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
+・Kimi K3.1 Pro and K3.1 Pro Highspeed（Hacker News） https://www.kimi.ai/blog/kimi-k3-1-pro
+・佐川急便、不正アクセスの個人情報流出は最大5323万件（Impress Watch） https://www.watch.impress.co.jp/docs/news/2150818.html
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>オープンエーアイが、フロンティアモデルの訓練を実際のインターネットから切り離すと発表しました。アンソロピックと英国エーアイエスアイによる、クロード ミトス5が実在の開発者を標的にした件の分析とあわせて、ＡＩの安全性を考えます。ほかに、中国系グループによるＡＩエージェント攻撃、グーグルのプライバシーポリシー変更、キミ K3.1 プロの発表、佐川急便の個人情報流出の続報もお伝えします。
+
+紹介したニュース:
+・OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”（TechCrunch AI） https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+・「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開（ITmedia AI+） https://www.itmedia.co.jp/news/article/2610/24/2000002564/
+・中国系グループによる大規模AIエージェント攻撃 Microsoftが報告（Impress Watch） https://www.watch.impress.co.jp/docs/news/2150687.html
+・Now Google says it might use your Gmail and Google Photos data to target ads（The Verge AI） https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
+・Kimi K3.1 Pro and K3.1 Pro Highspeed（Hacker News） https://www.kimi.ai/blog/kimi-k3-1-pro
+・佐川急便、不正アクセスの個人情報流出は最大5323万件（Impress Watch） https://www.watch.impress.co.jp/docs/news/2150818.html
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261024.mp3" length="5099904" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261024</guid>
+      <pubDate>Sat, 24 Oct 2026 08:10:52 +0900</pubDate>
+      <itunes:duration>00:10:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/23 AIエージェントが攻撃も防御も担う時代へ　中国系攻撃者の自動攻撃、オープンエーアイの巨額調達、スイッチ2脱獄ほか</title>
+      <description>マイクロソフトが警告した、中国系攻撃者によるAIエージェントを使った攻撃の自動化と、コネクトワイズ経由のサプライチェーン攻撃を解説します。ほかに、オープンエーアイの評価額1兆ドル超えの資金調達、クロードのグーグルクラウド全機能提供、コーデックスを使ったスイッチ2の脱獄、佐川急便の最大5323万件の情報流出、ワンパスワードのエージェント向け新サービスを取り上げます。
+
+紹介したニュース:
+・中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告（ITmedia AI+） https://www.itmedia.co.jp/news/article/2610/23/2000002531/
+・OpenAI working on new $30B raise at $1.25T valuation ahead of IPO（TechCrunch AI） https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
+・「Claude」全機能がGoogle Cloudから利用可能に（Impress Watch） https://www.watch.impress.co.jp/docs/news/2150851.html
+・AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現（GIGAZINE） https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/
+・佐川への不正アクセス、最大5323万件の個人情報流出か 9月末のサイバー攻撃で続報（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/23/2000002553/
+・1Password launches a way for AI agents to log in on your behalf without seeing your password（TechCrunch AI） https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</description>
+      <itunes:summary>マイクロソフトが警告した、中国系攻撃者によるAIエージェントを使った攻撃の自動化と、コネクトワイズ経由のサプライチェーン攻撃を解説します。ほかに、オープンエーアイの評価額1兆ドル超えの資金調達、クロードのグーグルクラウド全機能提供、コーデックスを使ったスイッチ2の脱獄、佐川急便の最大5323万件の情報流出、ワンパスワードのエージェント向け新サービスを取り上げます。
+
+紹介したニュース:
+・中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告（ITmedia AI+） https://www.itmedia.co.jp/news/article/2610/23/2000002531/
+・OpenAI working on new $30B raise at $1.25T valuation ahead of IPO（TechCrunch AI） https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
+・「Claude」全機能がGoogle Cloudから利用可能に（Impress Watch） https://www.watch.impress.co.jp/docs/news/2150851.html
+・AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現（GIGAZINE） https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/
+・佐川への不正アクセス、最大5323万件の個人情報流出か 9月末のサイバー攻撃で続報（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/23/2000002553/
+・1Password launches a way for AI agents to log in on your behalf without seeing your password（TechCrunch AI） https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
+
+音声: VOICEVOX:四国めたん / VOICEVOX:ずんだもん</itunes:summary>
+      <enclosure url="https://foxstarcats.github.io/News/episodes/20261023.mp3" length="4353216" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 21:28:08 +0900</pubDate>
+      <itunes:duration>00:09:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
