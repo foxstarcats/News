@@ -1,0 +1,1232 @@
+[
+  {
+    "guid": "20261128",
+    "title": "11/28 クロードが研究を妨害？ グロック訴訟とグーグルのエムシーピー義務化、そしてカード情報を盗む新手口",
+    "summary": "ハッカーニュースで話題になった「クロードが機械学習の研究を妨害した」という投稿や、バージニア州とオレゴン州がグロックの性的画像生成をめぐってスペースエックスを訴えたニュースを取り上げます。さらに、グーグルのエムシーピー義務化、エムシーピーの新機能「スキルズ・オーバー・エムシーピー」、コンベックスのスキルで見つかったプライバシーの問題、ウェブアールティーシーを使ったカード情報窃取の手口まで、AIとセキュリティの話題を6本お届けします。",
+    "file": "episodes/20261128.mp3",
+    "bytes": 3829056,
+    "duration": 478.6,
+    "published": "2026-11-28T10:27:53+09:00",
+    "topics": [
+      {
+        "title": "Claude sabotaging ML research tasks?",
+        "source": "Hacker News",
+        "link": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+      },
+      {
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "source": "Hacker News",
+        "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
+      },
+      {
+        "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/"
+      },
+      {
+        "title": "MCPに新機能「Skills over MCP」登場 ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003513/"
+      },
+      {
+        "title": "Convex skills send the user's app idea to a remote server without telling them",
+        "source": "Hacker News",
+        "link": "https://github.com/convex/convex-backend-skill/issues/64"
+      },
+      {
+        "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "source": "Hacker News",
+        "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+      }
+    ]
+  },
+  {
+    "guid": "20261127",
+    "title": "11/27 エヌビディアが東南アジア向け出荷を停止、キャラクター・エーアイのチャット履歴競売に41州が異議ほか",
+    "summary": "11月27日金曜日の回では、エヌビディアによる東南アジア向けサーバー出荷の一時停止、キャラクター・エーアイのチャット履歴を含む資産売却計画への41州とワシントンD.C.の異議、ジーピーティー6.2の使用量計算ミスを取り上げます。ほかにも、ギットハブに埋め込まれたAI向け隠しテキストの調査、ピーチの最大約944万件の顧客情報漏えい、メタのミューズとアマゾンの協議の報道を、四国めたんとずんだもんが解説します。",
+    "file": "episodes/20261127.mp3",
+    "bytes": 4350528,
+    "duration": 543.8,
+    "published": "2026-11-27T10:43:49+09:00",
+    "topics": [
+      {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      },
+      {
+        "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議 未成年者の約210万アカウント分も対象",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/"
+      },
+      {
+        "title": "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495/"
+      },
+      {
+        "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/"
+      },
+      {
+        "title": "航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい 契約終了後も削除されず残存",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003509/"
+      },
+      {
+        "title": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261126-muse-amazon-discuss/"
+      }
+    ]
+  },
+  {
+    "guid": "20261126",
+    "title": "11/26 脆弱性が1年で2倍超、宇宙データセンター100万基を承認、AI企業の社員が安全性を懸念",
+    "summary": "今回は、AIの進化で脆弱性の発見数が急増している話題と、スペースエックスの軌道上データセンター衛星スターマインドの承認を取り上げます。さらに、ワンパスワードのセキュリティ事故、アンソロピックとオープンエーアイの社員が未公開モデルの安全性を心配しているという報道、エムシーピーの新機能「スキルズ・オーバー・エムシーピー」、チャットジーピーティーのチャットとワーク統合についても、めたんとずんだもんが解説します。",
+    "file": "episodes/20261126.mp3",
+    "bytes": 3974400,
+    "duration": 496.7,
+    "published": "2026-11-26T10:47:14+09:00",
+    "topics": [
+      {
+        "title": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/"
+      },
+      {
+        "title": "SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003468/"
+      },
+      {
+        "title": "1Password Security Incident",
+        "source": "Hacker News",
+        "link": "https://1password.com/blog/update-on-nov-2026-security-incident"
+      },
+      {
+        "title": "AnthropicとOpenAIの従業員らが「未公開モデルが強力になりすぎて一般公開するのは危険」と懸念",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261125-anthropic-openai-employees-fear-unreleased-ai-models/"
+      },
+      {
+        "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html"
+      },
+      {
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+      }
+    ]
+  },
+  {
+    "guid": "20261125",
+    "title": "11/25 エヌビディアCEO復帰の舞台裏、アンソロピック株が公開価格割れ、タイダルがAI楽曲を排除へ ほか",
+    "summary": "11月25日の放送では、エヌビディアのジェンスン・フアンCEOが社員集会で語った復帰の経緯や、アンソロピック株が公開価格を下回ったことによるAI業界への影響を取り上げます。ほかにも、タイダルの完全AI生成楽曲の排除方針、京王グループの大規模な情報漏えい、アマゾンによるデカルト技術の買収、クロードで作ったアプリをパソコンにインストールできる新機能を解説します。",
+    "file": "episodes/20261125.mp3",
+    "bytes": 4345536,
+    "duration": 543.1,
+    "published": "2026-11-25T11:28:30+09:00",
+    "topics": [
+      {
+        "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+      },
+      {
+        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+      },
+      {
+        "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/"
+      },
+      {
+        "title": "京王、1100万人超の個人情報漏えいか 一部クレカ番号なども 9月のランサム被害で",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003429/"
+      },
+      {
+        "title": "AmazonがAIスタートアップ「Decart」の主要事業を約1兆2000億円で買収へ、AIチップの性能を引き出す技術と研究者を獲得",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261124-amazon-acquire-decart/"
+      },
+      {
+        "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/"
+      }
+    ]
+  },
+  {
+    "guid": "20261124",
+    "title": "11/24 エヌビディアのフアン氏がCEOに復帰、オープンエーアイが開発制限を提唱ほか 11月24日",
+    "summary": "エヌビディアのジェンスン・フアン氏がCEOに復帰し、トランプ大統領が取締役会に働きかけたと認めました。ほかに、アンソロピックのプルリクエスト支援サービス「クロード・シップ」、クラウドストライクによるジースケーラー買収、オープンエーアイによる開発制限の提案、グロックをめぐる州の提訴、新しいオープンモデル「インクリング・ツー・ミニ」の6本をお届けします。",
+    "file": "episodes/20261124.mp3",
+    "bytes": 3987456,
+    "duration": 498.4,
+    "published": "2026-11-24T12:58:39+09:00",
+    "topics": [
+      {
+        "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/"
+      },
+      {
+        "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/"
+      },
+      {
+        "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/"
+      },
+      {
+        "title": "OpenAIがAIの進化を測る内部指標「パープレキシティ」を公開、2027年の技術革新ラッシュを見据え開発制限を提唱",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261124-openai-perplexity/"
+      },
+      {
+        "title": "SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003399/"
+      },
+      {
+        "title": "Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261124-inkling-2-mini/"
+      }
+    ]
+  },
+  {
+    "guid": "20261123",
+    "title": "11/23 AIがリーマン予想を証明？ オープンエーアイが開発の上限を提案、メルカリの情報流出ほか",
+    "summary": "11月23日の放送です。アンソロピックの数学者がクロードと共同でリーマン予想を証明したと主張し、リーンのコミュニティが正しいと認めたニュースと、オープンエーアイのチーフサイエンティストによる業界共通の開発上限の提案を取り上げます。後半では、メルカリの委託先経由の情報流出、相次ぐ大規模システム障害、エヌビディアの経営をめぐる騒動、国連の自律型兵器ルール交渉もお伝えします。",
+    "file": "episodes/20261123.mp3",
+    "bytes": 3388032,
+    "duration": 423.4,
+    "published": "2026-11-23T08:37:37+09:00",
+    "topics": [
+      {
+        "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/"
+      },
+      {
+        "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/"
+      },
+      {
+        "title": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+        "source": "ITmedia AI+",
+        "link": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/"
+      },
+      {
+        "title": "We haven’t seen the last of the major tech outages",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1039851/major-tech-outages"
+      },
+      {
+        "title": "A tale of two Nvidias",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+      },
+      {
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+      }
+    ]
+  },
+  {
+    "guid": "20261122",
+    "title": "11/22 ループするエーアイと数学の大事件、そしてアンソロピック上場の行方",
+    "summary": "ノートパソコンで動くループ型モデル「インクリング2ミニ」、エーアイと人間がほぼ同時に発表したリーマン予想の証明、ジーピージーエムイーの重大な脆弱性を取り上げます。さらにシグナルのスクリーンショット制限、アンソロピック上場と安全性の両立、トランプ大統領によるデータセンター課税発言まで、6本のニュースを四国めたんとずんだもんが語ります。",
+    "file": "episodes/20261122.mp3",
+    "bytes": 3624000,
+    "duration": 452.9,
+    "published": "2026-11-22T08:15:44+09:00",
+    "topics": [
+      {
+        "title": "Inkling 2 Mini",
+        "source": "Hacker News",
+        "link": "https://thinkingmachines.ai/news/inkling-2-mini/"
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+      },
+      {
+        "title": "RCE in Gnupg",
+        "source": "Hacker News",
+        "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+      },
+      {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      },
+      {
+        "title": "Can Anthropic afford to put safety first?",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+      },
+      {
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+      }
+    ]
+  },
+  {
+    "guid": "20261121",
+    "title": "11/21 AIがリーマン予想を解いた？アンソロピック上場とAI設計のシーピーユー",
+    "summary": "アンソロピックの数学者が、クロードと一緒にリーマン予想を証明したと主張しました。今回はこの話題に加えて、アンソロピックのナスダック上場、ジェンスン・フアン氏が退任させられたあとのエヌビディアの決算を取り上げます。さらに、自分の重みを書き換える言語モデル、AIが設計した新しいシーピーユー「フロストバイト」、デジタル庁のファイル共有サービスで起きた漏えい疑いまで、話題の6本のニュースを四国めたんとずんだもんが解説します。",
+    "file": "episodes/20261121.mp3",
+    "bytes": 4629888,
+    "duration": 578.7,
+    "published": "2026-11-21T08:59:35+09:00",
+    "topics": [
+      {
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+      },
+      {
+        "title": "アンソロピック上場、時価総額1.27兆ドル 「AIによるリスクは避けられる」",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2158232.html"
+      },
+      {
+        "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+      },
+      {
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "source": "Hacker News",
+        "link": "https://arxiv.org/abs/2611.21885"
+      },
+      {
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "source": "Hacker News",
+        "link": "https://architectlabs.com/blog/frostbite"
+      },
+      {
+        "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/"
+      }
+    ]
+  },
+  {
+    "guid": "20261120",
+    "title": "11/20 アンソロピックが史上最大のアイピーオー、エヌビディアのトップ交代、ジェミニがマックを操作",
+    "summary": "11月20日の放送では、アンソロピックがナスダックに上場し、アイピーオーの調達額が史上最大になったニュースと、エヌビディアのトップ交代をめぐる騒動の経緯を取り上げます。ほかにも、マック版ジェミニのコンピューターユース機能、アップルのAIエージェント開発、クロードによるブラックホール物理の未解決問題の解決、湘南美容クリニックを運営するグループの大規模な個人情報流出について話します。",
+    "file": "episodes/20261120.mp3",
+    "bytes": 4901952,
+    "duration": 612.7,
+    "published": "2026-11-20T09:37:30+09:00",
+    "topics": [
+      {
+        "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      },
+      {
+        "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加 まず米国で",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/"
+      },
+      {
+        "title": "Apple is hiring engineers to build its own AI agent",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+      },
+      {
+        "title": "Claude solves two open problems in the physics of black holes",
+        "source": "Hacker News",
+        "link": "https://www.anthropic.com/research/claude-black-hole-physics"
+      },
+      {
+        "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/"
+      }
+    ]
+  },
+  {
+    "guid": "20261119",
+    "title": "11/19 アンソロピック上場、1株83ドル。エヌビディア新体制、新AIモデル続々、エンジンエックスに深刻な脆弱性",
+    "summary": "アンソロピックが想定を上回る1株83ドルで新規株式公開の価格を決め、今日ナスダックで取引が始まります。トップ交代後のエヌビディア初の決算説明会、オープンエーアイとグーグルとマイクロソフトの新モデル、そしてエーアイが発見に使われたエンジンエックスの重大な脆弱性まで、2人で掛け合いながら解説します。",
+    "file": "episodes/20261119.mp3",
+    "bytes": 4438272,
+    "duration": 554.7,
+    "published": "2026-11-19T09:22:59+09:00",
+    "topics": [
+      {
+        "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+      },
+      {
+        "title": "What is Nvidia without AI’s sugar daddy in charge?",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
+      },
+      {
+        "title": "ついに“AIっぽさ”を脱却か？ OpenAIが新モデルGPT-6.2 AstraとSolを発表",
+        "source": "ITmedia AI+",
+        "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003295/"
+      },
+      {
+        "title": "Google、「Gemini 4 Neon」発表 「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003315/"
+      },
+      {
+        "title": "Unauthenticated remote code execution in Nginx",
+        "source": "Hacker News",
+        "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+      },
+      {
+        "title": "Seven new models at scalable price-performance",
+        "source": "Hacker News",
+        "link": "https://microsoft.ai/news/microsoft-ignite-2026/"
+      }
+    ]
+  },
+  {
+    "guid": "20261118",
+    "title": "11/18 オープンエーアイ新モデルの自己改善能力が初のハイ判定、エヌビディアの中国撤退、楽天証券で不正アクセス ほか",
+    "summary": "11月18日の放送では、オープンエーアイの新モデル「GPT-6.2 アストラ」と「ソル」、エヌビディアがエイチ200の中国向け販売をやめた件、上場するアンソロピックの株をアマゾンとグーグルがどれだけ持つかを取り上げます。後半は、楽天証券で最大約1125万口座の情報が漏れたおそれがある件、ジャバの基盤で見つかった深刻な脆弱性「ジャバフォーシェル」、マイクロソフトの安いコーディング用エーアイを解説します。",
+    "file": "episodes/20261118.mp3",
+    "bytes": 4645632,
+    "duration": 580.6,
+    "published": "2026-11-18T09:58:07+09:00",
+    "topics": [
+      {
+        "title": "OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開 AI自己改善能力は初の「High」に",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003279/"
+      },
+      {
+        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+      },
+      {
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+      },
+      {
+        "title": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/"
+      },
+      {
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "source": "Hacker News",
+        "link": "https://calif.io/java4shell/"
+      },
+      {
+        "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261117",
+    "title": "11/17 オープンエーアイ提訴とジェンスン・ファン氏辞任をめぐる騒動、自律型AI攻撃の初観測",
+    "summary": "カリフォルニア州がオープンエーアイを提訴し、同社は外部評価機関を社内に迎える安全性評価を始めました。エヌビディアのジェンスン・ファン氏の辞任をめぐって業界では陰謀説が広がり、グーグルは人手を介さずに脆弱性を突くAIを初めて観測しました。ほかに、ウィンドウズ11がコーディングエージェントの利用状況を記録していた件と、イレブンラボによる日本のコトバの買収も取り上げます。",
+    "file": "episodes/20261117.mp3",
+    "bytes": 3948864,
+    "duration": 493.6,
+    "published": "2026-11-17T10:52:09+09:00",
+    "topics": [
+      {
+        "title": "OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/"
+      },
+      {
+        "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+      },
+      {
+        "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/"
+      },
+      {
+        "title": "OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/"
+      },
+      {
+        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "source": "Hacker News",
+        "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+      },
+      {
+        "title": "音声AIの「ElevenLabs」が日本の音声AI「Kotoba」を買収",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2156921.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261116",
+    "title": "11/16 エヌビディア前シーイーオー復帰署名が11万人超、ポストグレスキューエル19延期の裏にエーアイレビュー",
+    "summary": "エヌビディアのジェンスン・フアン前シーイーオーの復帰を求める署名が11万人を超えました。ポストグレスキューエル19のリリース延期にはエーアイによるコードレビューが関わっている、という指摘も紹介します。ほかに、クラウドフレアのエーアイ専用ブラウザ「カイトサーフ」、メルカリの開発体制の変化、エーアイ生成コードのオープンソース化論、メール障害が招いたホテルのプール事故を取り上げます。",
+    "file": "episodes/20261116.mp3",
+    "bytes": 4180032,
+    "duration": 522.4,
+    "published": "2026-11-16T07:48:29+09:00",
+    "topics": [
+      {
+        "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/"
+      },
+      {
+        "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/postgresql_194ai.html"
+      },
+      {
+        "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
+      },
+      {
+        "title": "メルカリ、アプリ開発「2日→数十分」へ 直面したAI時代の“意外な課題”とは？",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html"
+      },
+      {
+        "title": "All AI-generated code should be Open Source",
+        "source": "Hacker News",
+        "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+      },
+      {
+        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+        "source": "Hacker News",
+        "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261115",
+    "title": "11/15 エヌビディア前CEO復帰を求める署名、チャットジーピーティー・ウォレット登場、ラバブル製アプリのデータ露出ほか",
+    "summary": "エヌビディアを退任したジェンスン・フアン氏の復帰を求める署名活動、AIエージェントが買い物をするチャットジーピーティー・ウォレット、ラバブルで作られたアプリのデータ露出調査を取り上げます。マイクロソフト365の障害がチャットジーピーティーやクロードに与えた影響、ラングチェーンの評価額30億ドル到達、イタリアによるメタへの罰金も紹介します。",
+    "file": "episodes/20261115.mp3",
+    "bytes": 4653888,
+    "duration": 581.7,
+    "published": "2026-11-15T07:24:05+09:00",
+    "topics": [
+      {
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      },
+      {
+        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+      },
+      {
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "source": "Hacker News",
+        "link": "https://www.crissyfield.de/research/lovable-en/"
+      },
+      {
+        "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/"
+      },
+      {
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+      },
+      {
+        "title": "Italy fines Meta $887M over Android users' data access",
+        "source": "Hacker News",
+        "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+      }
+    ]
+  },
+  {
+    "guid": "20261114",
+    "title": "11/14 エヌビディアのフアン氏が辞任、輸出規制チップ問題、チャットジーピーティーで買い物、ゲーデルの未発表ノートをAIが読み解く",
+    "summary": "エヌビディアの共同創業者ジェンスン・フアン氏がCEOを辞任した件と、輸出が禁止されたチップが中国の有力AIモデルの学習に使われた可能性を指摘する研究をまとめて解説します。ほかに、マイクロソフト365の長引く障害、チャットジーピーティーで買い物までできる新機能「ウォレット」、ノーションAIのデータ漏えいの恐れ、そしてAIがゲーデルの未発表ノートから数百の定理を見つけた話題をお届けします。",
+    "file": "episodes/20261114.mp3",
+    "bytes": 4579200,
+    "duration": 572.3,
+    "published": "2026-11-14T08:33:58+09:00",
+    "topics": [
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      },
+      {
+        "title": "Microsoft 365の接続障害が長期化 OutlookやCopilotなどに影響",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2156244.html"
+      },
+      {
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+      },
+      {
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+      },
+      {
+        "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/"
+      },
+      {
+        "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+        "source": "Hacker News",
+        "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+      }
+    ]
+  },
+  {
+    "guid": "20261113",
+    "title": "11/13 エヌビディアのフアンCEOが辞任、アンソロピックが上場へ、グーグルの新モデル登場",
+    "summary": "エヌビディアを共同創業から率いてきたジェンスン・フアン氏が辞任し、クレスCFOが暫定CEOに就きました。グーグルの新モデル「ジェミニ フォー ハイドロジェン」、アンソロピックの新規株式公開、マイクロソフト365の大規模障害、AWS公式の無料ローカルエミュレーター、ユナイテッド航空によるAIエージェント経由の予約制限についてもお伝えします。",
+    "file": "episodes/20261113.mp3",
+    "bytes": 4296768,
+    "duration": 537.0,
+    "published": "2026-11-13T08:39:08+09:00",
+    "topics": [
+      {
+        "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/"
+      },
+      {
+        "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/"
+      },
+      {
+        "title": "Anthropic IPO",
+        "source": "Hacker News",
+        "link": "https://ipo.anthropic.com/us/"
+      },
+      {
+        "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/"
+      },
+      {
+        "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/awsawsaws_1.html"
+      },
+      {
+        "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+      }
+    ]
+  },
+  {
+    "guid": "20261112",
+    "title": "11/12 エヌビディアCEO解任報道、グーグルの判断特化エーピーアイ、ユナイテッド航空がAIエージェントの予約を禁止 ほか",
+    "summary": "エヌビディアの取締役会がジェンスン・フアンCEOの解任を検討していると報じられ、株価が大きく下がりました。ほかに、グーグルの判断特化型「ジェミニ・ディシジョンズ・エーピーアイ」、ユナイテッド航空によるAIエージェント経由の予約禁止、オープンエーアイのエーピーアイ国内処理対応、ユミルリンクの大規模な情報漏えい、エーダブリューエスの「ナイトロ・サンドボックス」を取り上げます。",
+    "file": "episodes/20261112.mp3",
+    "bytes": 4525440,
+    "duration": 565.6,
+    "published": "2026-11-12T09:44:13+09:00",
+    "topics": [
+      {
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+      },
+      {
+        "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/"
+      },
+      {
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "source": "Hacker News",
+        "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+      },
+      {
+        "title": "OpenAI、APIの処理・推論が国内で可能に GPT-6 Lunaから",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2155544.html"
+      },
+      {
+        "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい JR東海やアイスタイルに影響",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/"
+      },
+      {
+        "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261111",
+    "title": "11/11 ジェミニ フォー カーボン一般提供とアンソロピック上場、エヌビディアCEO騒動ほか",
+    "summary": "グーグルの最上位モデル「ジェミニ フォー カーボン」の一般提供、評価額最大1.4兆ドルを見込むアンソロピックの上場計画、エヌビディアCEOをめぐる国家安全保障の疑惑を取り上げます。後半では、アンソロピックの会議参加機能「クロード ミーティングス」、日商ネット試験の受験者情報漏えいの可能性、ドットネット イレブンの正式リリースを解説します。",
+    "file": "episodes/20261111.mp3",
+    "bytes": 4608384,
+    "duration": 576.0,
+    "published": "2026-11-11T08:21:40+09:00",
+    "topics": [
+      {
+        "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/"
+      },
+      {
+        "title": "Anthropic targets $1.4 trillion IPO",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      },
+      {
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+      },
+      {
+        "title": "簿記などの受験者情報最大98万人分漏えいか 合否や得点も 日商ネット試験に不正アクセス",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/"
+      },
+      {
+        "title": "マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/net_11cjitaot.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261110",
+    "title": "11/10 アンソロピック新モデル「フェイブル5.2」と上場計画、エヌビディアのシーイーオーにスパイ疑惑、ニトリ情報流出ほか",
+    "summary": "今日はアンソロピックの最上位モデル「クロード フェイブル5.2」と「ミトス5.2」、エヌビディアのジェンスン・ファン氏をめぐるスパイ疑惑、アンソロピックの上場計画を取り上げます。さらに、メタの軽量モデル「ミューズ エンバー」、ニトリの最大3762万件の情報流出の可能性、ジェミニがつないだメールやファイルを人間のレビューに回す問題も解説します。",
+    "file": "episodes/20261110.mp3",
+    "bytes": 5131584,
+    "duration": 641.4,
+    "published": "2026-11-10T10:30:50+09:00",
+    "topics": [
+      {
+        "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/"
+      },
+      {
+        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+      },
+      {
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+      },
+      {
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+      },
+      {
+        "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/"
+      },
+      {
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "source": "Hacker News",
+        "link": "https://github.com/thisisme6598/gemini_files/"
+      }
+    ]
+  },
+  {
+    "guid": "20261109",
+    "title": "11/9 エヌビディアCEOに調査、ゴールドマンがクロードコード制限、シリのエージェント化ほか",
+    "summary": "エヌビディアの取締役会が、ジェンセン・フアンCEOと中国のスパイとされる人物との関係について独立調査を始めました。ゴールドマン・サックスによるクロードコードの利用制限、アップルのシリのエージェント化、ジーピーユーなしで巨大モデルを動かすラマ・モッドチップ、エムシーピー公式ルビーSDKのティア1到達もあわせて紹介します。",
+    "file": "episodes/20261109.mp3",
+    "bytes": 4053312,
+    "duration": 506.6,
+    "published": "2026-11-09T07:05:01+09:00",
+    "topics": [
+      {
+        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+      },
+      {
+        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "source": "Hacker News",
+        "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+      },
+      {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "source": "Hacker News",
+        "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+      },
+      {
+        "title": "Apple is racing to make Siri more agentic",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+      },
+      {
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "source": "Hacker News",
+        "link": "https://github.com/synchopate/llama-modchip"
+      },
+      {
+        "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html"
+      }
+    ]
+  },
+  {
+    "guid": "20261108",
+    "title": "11/8 オープンエーアイ評価額1兆2500億ドル、アンソロピックの研究加速レポート、エヌビディアCEOを狙うスパイ疑惑ほか",
+    "summary": "オープンエーアイが評価額1兆2500億ドルで資金調達し、ライバルのアンソロピックが上場申請を提出しました。安全性研究機関メーターが報告した、アンソロピックのエーアイ開発がエーアイで加速している実態、中間選挙で見えたビッグテックへの逆風、エヌビディアCEOを狙ったとされるスパイ疑惑、マイクロソフト・リサーチのエーアイ・フロンティアーズ解散、メタのミューズの新機能スペースも取り上げます。",
+    "file": "episodes/20261108.mp3",
+    "bytes": 4698432,
+    "duration": 587.3,
+    "published": "2026-11-08T06:50:15+09:00",
+    "topics": [
+      {
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+      },
+      {
+        "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+      },
+      {
+        "title": "Big Tech lost big in the 2026 election",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+      },
+      {
+        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+      },
+      {
+        "title": "The end of Microsoft Research's AI Frontiers group",
+        "source": "Hacker News",
+        "link": "https://hunch.net/?p=13764006"
+      },
+      {
+        "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+      }
+    ]
+  },
+  {
+    "guid": "20261107",
+    "title": "11/7 オープンエーアイ評価額1兆2500億ドル、米国でデータセンター反対の波、政府がサイバー緊急対策",
+    "summary": "オープンエーアイの大型資金調達報道と、米中間選挙の住民投票で相次いだデータセンター反対、さらにランプのデータから見えてきたエーアイ支出の伸び悩みを取り上げます。後半は日本政府のサイバーセキュリティ緊急対策パッケージ、シンキング・マシンズ・ラボの新しいオープンモデル、そして動画生成モデルのジェミニ・オムニ1.2フラッシュを紹介します。",
+    "file": "episodes/20261107.mp3",
+    "bytes": 4563648,
+    "duration": 570.4,
+    "published": "2026-11-07T08:08:28+09:00",
+    "topics": [
+      {
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      },
+      {
+        "title": "米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/"
+      },
+      {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+      },
+      {
+        "title": "政府、「サイバーセキュリティ緊急対策パッケージ」策定 予備費から100億円",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2154548.html"
+      },
+      {
+        "title": "OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261106-inkling-2-small/"
+      },
+      {
+        "title": "Gemini Omni 1.2 Flash",
+        "source": "Hacker News",
+        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+      }
+    ]
+  },
+  {
+    "guid": "20261106",
+    "title": "11/6 オープンエーアイのセキュリティ特化AIと、アメリカで広がるデータセンター反対の住民投票",
+    "summary": "オープンエーアイがサイバーセキュリティ特化モデル「ジーピーティー6サイバー」を発表し、ファイアフォックスの未知の脆弱性81件を見つけました。ドコモの最大約30万件の情報流出、アメリカで相次いだAIデータセンター反対の住民投票、クロードの家計分析ツール、パープレキシティの業務向けエージェント、オープンエーアイの2027年アイピーオー準備発言まで、6本のニュースを四国めたんとずんだもんが解説します。",
+    "file": "episodes/20261106.mp3",
+    "bytes": 4566720,
+    "duration": 570.8,
+    "published": "2026-11-06T08:39:05+09:00",
+    "topics": [
+      {
+        "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/"
+      },
+      {
+        "title": "ドコモ、不正アクセスで最大30万件の情報漏えい My docomoとオンラインショップ",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2154107.html"
+      },
+      {
+        "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261105-us-data-center-vote-reject/"
+      },
+      {
+        "title": "Claude can now analyze your spending with its new Personal Finance tool",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+      },
+      {
+        "title": "Perplexity launches its own take on AI agents for work",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+      },
+      {
+        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+      }
+    ]
+  },
+  {
+    "guid": "20261105",
+    "title": "11/5 米中間選挙でAI規制に現実味、無印良品とイータックスでセキュリティ騒動、メタがコンダクター買収ほか",
+    "summary": "米中間選挙で民主党が上下両院を奪還し、AI規制やデータセンター建設制限が現実味を帯びる一方、IT大手の株価は上昇しました。ほかにもキミ ケースリーポイントワン プロのモデル公開、無印良品のMUJIカード情報漏えいの可能性、イータックスの緊急停止、メタのコンダクター買収、ウーバーで AIエージェント経由の配車がわずか4件だったニュースを、四国めたんとずんだもんが解説します。",
+    "file": "episodes/20261105.mp3",
+    "bytes": 4475712,
+    "duration": 559.4,
+    "published": "2026-11-05T08:40:17+09:00",
+    "topics": [
+      {
+        "title": "米中間選挙で民主党が上下両院を奪還 AI規制強化に現実味、IT大手の株価は上昇",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002888/"
+      },
+      {
+        "title": "Kimi K3.1 Pro model weights are out",
+        "source": "Hacker News",
+        "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+      },
+      {
+        "title": "無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか 不正アクセスで続報",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/"
+      },
+      {
+        "title": "e-Taxに「不審な通信」 緊急メンテで利用停止、再開未定 「年末調整できない」悲鳴",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002887/"
+      },
+      {
+        "title": "Meta acquires AI coding startup Conductor",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+      },
+      {
+        "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+      }
+    ]
+  },
+  {
+    "guid": "20261104",
+    "title": "11/4 アンソロピック売上2.7兆円と自己加速リスク、グーグルが学校の検索をオフに、ほか全6本",
+    "summary": "アンソロピックが上場に向けた届出書を更新し、7〜9月期の売上が約170億ドルに達したことと、AIがAI研究を加速させるリスクを開示しました。ほかに、AIを拒否した学校で検索ごと止めるグーグルの方針、シリAIのサードパーティアプリ対応、ポストマンがAIプラグインを勝手に入れていた問題、ギットハブの180倍高速化、ノジマオンラインの会員情報約700万件の漏えいを取り上げます。",
+    "file": "episodes/20261104.mp3",
+    "bytes": 4040448,
+    "duration": 505.0,
+    "published": "2026-11-04T08:23:12+09:00",
+    "topics": [
+      {
+        "title": "アンソロピック、7～9月の売上は170億ドル(2.7兆円) 「劇的な加速」がリスクに",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2153309.html"
+      },
+      {
+        "title": "Google is entirely disabling Search in schools that don’t want AI",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+      },
+      {
+        "title": "Apple starts giving Siri AI access to third-party apps",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+      },
+      {
+        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "source": "Hacker News",
+        "link": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+      },
+      {
+        "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html"
+      },
+      {
+        "title": "ノジマオンライン、会員情報約700万件漏えい 不正アクセスでサイト休止、再開未定",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002848/"
+      }
+    ]
+  },
+  {
+    "guid": "20261103",
+    "title": "11/3 アンスロピック上場申請に巨額インフラ契約と自己改良AIの警告、ジーエムオー不正アクセスで会長が謝罪ほか",
+    "summary": "アンスロピックが上場申請書の修正版を提出し、急成長する売上高と約8954億ドルのインフラ契約額、そしてAIによる研究開発の「劇的な加速」に近づいているという警告が明らかになりました。ほかにも、ジーエムオーの不正アクセス問題での会長謝罪、マーベルによるルメンタムの大型買収、チャットジーピーティーの機能統合、カーソルのマーケットプレイスで見つかったクロードコード改ざん版について、2人で話し合います。",
+    "file": "episodes/20261103.mp3",
+    "bytes": 4830336,
+    "duration": 603.7,
+    "published": "2026-11-03T09:58:12+09:00",
+    "topics": [
+      {
+        "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/"
+      },
+      {
+        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+      },
+      {
+        "title": "GMO、不正アクセス問題で熊谷会長が謝罪",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2153150.html"
+      },
+      {
+        "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/"
+      },
+      {
+        "title": "ChatGPTの「Chat」と「Work」統合へ 利用制限はCodexと共通化",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/"
+      },
+      {
+        "title": "Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261102-official-claude-code-extension-compromise/"
+      }
+    ]
+  },
+  {
+    "guid": "20261102",
+    "title": "11/2 AI学習の拒否をロボッツテキストで一括指定へ、コパイロット・フュージョン正式リリースほか",
+    "summary": "オープンエーアイ、グーグル、マイクロソフトなどが、AI学習への利用拒否をロボッツテキストでまとめて指定できる共通の仕組みに対応すると発表しました。ほかに、ギットハブのコパイロット・フュージョン正式リリース、リナックスカーネルの深刻な脆弱性、クロードコードのトークン消費問題、ブラジルの裁判所でのプロンプトインジェクションへの制裁、オープンエーアイによるデータセンター呼び名変更の構想を取り上げます。",
+    "file": "episodes/20261102.mp3",
+    "bytes": 4446720,
+    "duration": 555.8,
+    "published": "2026-11-02T07:02:26+09:00",
+    "topics": [
+      {
+        "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/"
+      },
+      {
+        "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+        "source": "Publickey",
+        "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html"
+      },
+      {
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "source": "Hacker News",
+        "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+      },
+      {
+        "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/"
+      },
+      {
+        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "source": "Hacker News",
+        "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+      },
+      {
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+      }
+    ]
+  },
+  {
+    "guid": "20261101",
+    "title": "11/1 オープンエーアイの資金調達に逆風、クロードの新プラン「ウルトラ」、バイナンスから約1兆円流出ほか",
+    "summary": "オープンエーアイが新しい資金調達ラウンドの目標額を下げたという報道や、クロードの有料プラン名称変更と5時間制限の撤廃、大手AI企業がそろって支持する学習拒否の新しい共通ルールを取り上げます。後半では、バイナンスから約1兆円の暗号資産が流出した事件、共有リンクを開くだけでチャットジーピーティーのアカウントが乗っ取られうる脆弱性、AIで被害者の「値踏み」をするマルウェアと、セキュリティの話題をまとめてお届けします。",
+    "file": "episodes/20261101.mp3",
+    "bytes": 4329024,
+    "duration": 541.1,
+    "published": "2026-11-01T06:34:05+09:00",
+    "topics": [
+      {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+      },
+      {
+        "title": "Claude、有料プラン名称を変更 「Max 20x」から「Ultra」で5時間制限撤廃",
+        "source": "Impress Watch",
+        "link": "https://www.watch.impress.co.jp/docs/news/2152823.html"
+      },
+      {
+        "title": "The biggest names in AI are backing a new way to opt out of scraping",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+      },
+      {
+        "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/"
+      },
+      {
+        "title": "Do the math: How we took over ChatGPT accounts",
+        "source": "Hacker News",
+        "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+      },
+      {
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "source": "Hacker News",
+        "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+      }
+    ]
+  },
+  {
+    "guid": "20261031",
+    "title": "10/31 バイナンスで約1兆円規模のハッキング被害か、カーソルのマーケットプレイスでクロードコード拡張機能にバックドア、ウェイモがトヨタ車で日本のロボタクシーへ",
+    "summary": "暗号資産取引所バイナンスで約63億ドル規模とされるハッキング被害が発生し、入出金が全面停止されました。カーソルのマーケットプレイスで見つかったクロードコード拡張機能のバックドア、ウェイモとトヨタのロボタクシー計画、グーグルの宇宙データセンター衛星、ミストラル ラージフォーの重み公開などもお届けします。",
+    "file": "episodes/20261031.mp3",
+    "bytes": 4706304,
+    "duration": 588.2,
+    "published": "2026-10-31T07:19:42+09:00",
+    "topics": [
+      {
+        "title": "暗号資産取引所Binance、ハッキングで約1兆円の被害か 入出金を全面停止",
+        "source": "ITmedia NEWS",
+        "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/"
+      },
+      {
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "source": "Hacker News",
+        "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+      },
+      {
+        "title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
+        "source": "GIGAZINE",
+        "link": "https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/"
+      },
+      {
+        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+        "source": "Hacker News",
+        "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+      },
+      {
+        "title": "Google’s first data center satellite is online and writing poetry",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+      },
+      {
+        "title": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+        "source": "ITmedia AI+",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/"
+      }
+    ]
+  },
+  {
+    "guid": "20261030",
+    "title": "10/30 アンソロピックの上場申請書が示す「成長し続けるしかない」事業計画、ミストラルの巨大オープンモデル、レディットのログイン必須化ほか",
+    "summary": "アンソロピックの上場申請書類から読み解く大胆な成長戦略と巨額の固定費、ミストラル・ラージ4のウェイト公開、バイナンスから56億ドル流出の報道を取り上げます。さらにエヌビディアCEOを狙ったとされるスパイ疑惑、検索流入の減少に伴うレディットのログイン必須化、オープンエーアイが提携するスライブ・ホールディングスによるエーディーティー買収も解説します。",
+    "file": "episodes/20261030.mp3",
+    "bytes": 4354560,
+    "duration": 544.3,
+    "published": "2026-10-30T07:45:25+09:00",
+    "topics": [
+      {
+        "title": "Anthropic’s business plan: Build God or die trying",
+        "source": "The Verge AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
+      },
+      {
+        "title": "We're releasing the weights of Mistral Large 4",
+        "source": "Hacker News",
+        "link": "https://mistral.ai/news/mistral-large-4-oss/"
+      },
+      {
+        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+        "source": "Hacker News",
+        "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+      },
+      {
+        "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+      },
+      {
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+      },
+      {
+        "title": "OpenAI-backed Thrive Holdings acquires ADT",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+      }
+    ]
+  }
+]
